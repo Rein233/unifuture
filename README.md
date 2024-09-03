@@ -1,1 +1,1 @@
-My SSM starter project
+This is my SSM starter project
